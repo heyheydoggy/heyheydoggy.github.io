@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://heyheydoggy.github.io/about/index.html</loc>
-    
-    <lastmod>2021-01-05</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://heyheydoggy.github.io/2021/01/05/Xincheng-Tianzhutang/</loc>
     
     <lastmod>2021-01-05</lastmod>
@@ -17,6 +10,13 @@
   
   <url>
     <loc>https://heyheydoggy.github.io/2021/01/05/flying-cow/</loc>
+    
+    <lastmod>2021-01-05</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://heyheydoggy.github.io/about/index.html</loc>
     
     <lastmod>2021-01-05</lastmod>
     
