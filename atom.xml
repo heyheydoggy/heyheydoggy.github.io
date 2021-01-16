@@ -274,13 +274,13 @@
     
     <category term="新年目標" scheme="https://heyheydoggy.github.io/tags/%E6%96%B0%E5%B9%B4%E7%9B%AE%E6%A8%99/"/>
     
-    <category term="武漢肺炎" scheme="https://heyheydoggy.github.io/tags/%E6%AD%A6%E6%BC%A2%E8%82%BA%E7%82%8E/"/>
-    
-    <category term="covid_19" scheme="https://heyheydoggy.github.io/tags/covid-19/"/>
-    
     <category term="狐狸狗" scheme="https://heyheydoggy.github.io/tags/%E7%8B%90%E7%8B%B8%E7%8B%97/"/>
     
     <category term="japanesespitz" scheme="https://heyheydoggy.github.io/tags/japanesespitz/"/>
+    
+    <category term="武漢肺炎" scheme="https://heyheydoggy.github.io/tags/%E6%AD%A6%E6%BC%A2%E8%82%BA%E7%82%8E/"/>
+    
+    <category term="covid_19" scheme="https://heyheydoggy.github.io/tags/covid-19/"/>
     
   </entry>
   
@@ -324,11 +324,11 @@
     
     <category term="日常生活" scheme="https://heyheydoggy.github.io/tags/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/"/>
     
-    <category term="celebrate new year" scheme="https://heyheydoggy.github.io/tags/celebrate-new-year/"/>
-    
     <category term="武漢肺炎" scheme="https://heyheydoggy.github.io/tags/%E6%AD%A6%E6%BC%A2%E8%82%BA%E7%82%8E/"/>
     
     <category term="covid_19" scheme="https://heyheydoggy.github.io/tags/covid-19/"/>
+    
+    <category term="celebrate new year" scheme="https://heyheydoggy.github.io/tags/celebrate-new-year/"/>
     
   </entry>
   
@@ -559,10 +559,6 @@
     
     <category term="新年目標" scheme="https://heyheydoggy.github.io/tags/%E6%96%B0%E5%B9%B4%E7%9B%AE%E6%A8%99/"/>
     
-    <category term="武漢肺炎" scheme="https://heyheydoggy.github.io/tags/%E6%AD%A6%E6%BC%A2%E8%82%BA%E7%82%8E/"/>
-    
-    <category term="covid_19" scheme="https://heyheydoggy.github.io/tags/covid-19/"/>
-    
     <category term="寵物旅遊" scheme="https://heyheydoggy.github.io/tags/%E5%AF%B5%E7%89%A9%E6%97%85%E9%81%8A/"/>
     
     <category term="pettravel" scheme="https://heyheydoggy.github.io/tags/pettravel/"/>
@@ -570,6 +566,10 @@
     <category term="狐狸狗" scheme="https://heyheydoggy.github.io/tags/%E7%8B%90%E7%8B%B8%E7%8B%97/"/>
     
     <category term="japanesespitz" scheme="https://heyheydoggy.github.io/tags/japanesespitz/"/>
+    
+    <category term="武漢肺炎" scheme="https://heyheydoggy.github.io/tags/%E6%AD%A6%E6%BC%A2%E8%82%BA%E7%82%8E/"/>
+    
+    <category term="covid_19" scheme="https://heyheydoggy.github.io/tags/covid-19/"/>
     
   </entry>
   

@@ -312,27 +312,6 @@
   </url>
   
   <url>
-    <loc>https://heyheydoggy.github.io/tags/celebrate-new-year/</loc>
-    <lastmod>2021-01-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://heyheydoggy.github.io/tags/%E6%AD%A6%E6%BC%A2%E8%82%BA%E7%82%8E/</loc>
-    <lastmod>2021-01-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://heyheydoggy.github.io/tags/covid-19/</loc>
-    <lastmod>2021-01-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://heyheydoggy.github.io/tags/%E5%AF%B5%E7%89%A9%E6%97%85%E9%81%8A/</loc>
     <lastmod>2021-01-16</lastmod>
     <changefreq>daily</changefreq>
@@ -355,6 +334,27 @@
   
   <url>
     <loc>https://heyheydoggy.github.io/tags/japanesespitz/</loc>
+    <lastmod>2021-01-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://heyheydoggy.github.io/tags/%E6%AD%A6%E6%BC%A2%E8%82%BA%E7%82%8E/</loc>
+    <lastmod>2021-01-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://heyheydoggy.github.io/tags/covid-19/</loc>
+    <lastmod>2021-01-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://heyheydoggy.github.io/tags/celebrate-new-year/</loc>
     <lastmod>2021-01-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
