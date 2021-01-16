@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://heyheydoggy.github.io/2021/01/11/lift-dog/</loc>
+    <loc>https://heyheydoggy.github.io/2021/01/16/plum-flower/</loc>
     
     <lastmod>2021-01-16</lastmod>
     
   </url>
   
   <url>
-    <loc>https://heyheydoggy.github.io/2021/01/16/plum-flower/</loc>
+    <loc>https://heyheydoggy.github.io/2021/01/11/lift-dog/</loc>
     
     <lastmod>2021-01-16</lastmod>
     
@@ -417,6 +417,20 @@
   </url>
   
   <url>
+    <loc>https://heyheydoggy.github.io/tags/%E5%AF%92%E6%B5%81/</loc>
+    <lastmod>2021-01-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://heyheydoggy.github.io/tags/%E5%AF%B5%E7%89%A9%E7%A9%BF%E6%90%AD/</loc>
+    <lastmod>2021-01-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://heyheydoggy.github.io/tags/%E5%8F%B0%E4%B8%AD/</loc>
     <lastmod>2021-01-16</lastmod>
     <changefreq>daily</changefreq>
@@ -446,20 +460,6 @@
   
   <url>
     <loc>https://heyheydoggy.github.io/tags/%E8%B3%9E%E8%8A%B1/</loc>
-    <lastmod>2021-01-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://heyheydoggy.github.io/tags/%E5%AF%92%E6%B5%81/</loc>
-    <lastmod>2021-01-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://heyheydoggy.github.io/tags/%E5%AF%B5%E7%89%A9%E7%A9%BF%E6%90%AD/</loc>
     <lastmod>2021-01-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -517,14 +517,14 @@
   </url>
   
   <url>
-    <loc>https://heyheydoggy.github.io/categories/%E5%AF%B5%E7%89%A9%E8%B8%8F%E9%9D%92%E5%8E%BB/%E5%8F%B0%E4%B8%AD/</loc>
+    <loc>https://heyheydoggy.github.io/categories/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2021-01-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://heyheydoggy.github.io/categories/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://heyheydoggy.github.io/categories/%E5%AF%B5%E7%89%A9%E8%B8%8F%E9%9D%92%E5%8E%BB/%E5%8F%B0%E4%B8%AD/</loc>
     <lastmod>2021-01-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
