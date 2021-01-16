@@ -361,20 +361,6 @@
   </url>
   
   <url>
-    <loc>https://heyheydoggy.github.io/tags/%E9%A3%9B%E7%89%9B%E7%89%A7%E5%A0%B4/</loc>
-    <lastmod>2021-01-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://heyheydoggy.github.io/tags/%E8%8B%97%E6%A0%97/</loc>
-    <lastmod>2021-01-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://heyheydoggy.github.io/tags/%E8%B2%93/</loc>
     <lastmod>2021-01-16</lastmod>
     <changefreq>daily</changefreq>
@@ -410,14 +396,14 @@
   </url>
   
   <url>
-    <loc>https://heyheydoggy.github.io/tags/%E5%AF%92%E6%B5%81/</loc>
+    <loc>https://heyheydoggy.github.io/tags/%E9%A3%9B%E7%89%9B%E7%89%A7%E5%A0%B4/</loc>
     <lastmod>2021-01-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://heyheydoggy.github.io/tags/%E5%AF%B5%E7%89%A9%E7%A9%BF%E6%90%AD/</loc>
+    <loc>https://heyheydoggy.github.io/tags/%E8%8B%97%E6%A0%97/</loc>
     <lastmod>2021-01-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -453,6 +439,20 @@
   
   <url>
     <loc>https://heyheydoggy.github.io/tags/%E8%B3%9E%E8%8A%B1/</loc>
+    <lastmod>2021-01-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://heyheydoggy.github.io/tags/%E5%AF%92%E6%B5%81/</loc>
+    <lastmod>2021-01-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://heyheydoggy.github.io/tags/%E5%AF%B5%E7%89%A9%E7%A9%BF%E6%90%AD/</loc>
     <lastmod>2021-01-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -496,13 +496,6 @@
   </url>
   
   <url>
-    <loc>https://heyheydoggy.github.io/categories/%E5%AF%B5%E7%89%A9%E8%B8%8F%E9%9D%92%E5%8E%BB/%E8%8B%97%E6%A0%97/</loc>
-    <lastmod>2021-01-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://heyheydoggy.github.io/categories/%E5%AF%B5%E7%89%A9%E8%B8%8F%E9%9D%92%E5%8E%BB/%E8%8A%B1%E8%93%AE/</loc>
     <lastmod>2021-01-16</lastmod>
     <changefreq>daily</changefreq>
@@ -510,7 +503,7 @@
   </url>
   
   <url>
-    <loc>https://heyheydoggy.github.io/categories/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://heyheydoggy.github.io/categories/%E5%AF%B5%E7%89%A9%E8%B8%8F%E9%9D%92%E5%8E%BB/%E8%8B%97%E6%A0%97/</loc>
     <lastmod>2021-01-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -518,6 +511,13 @@
   
   <url>
     <loc>https://heyheydoggy.github.io/categories/%E5%AF%B5%E7%89%A9%E8%B8%8F%E9%9D%92%E5%8E%BB/%E5%8F%B0%E4%B8%AD/</loc>
+    <lastmod>2021-01-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://heyheydoggy.github.io/categories/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2021-01-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
