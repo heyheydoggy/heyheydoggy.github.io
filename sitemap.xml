@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://heyheydoggy.github.io/2021/05/13/me-and-dog/</loc>
+    
+    <lastmod>2021-05-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://heyheydoggy.github.io/2021/05/13/myboysleep/</loc>
+    
+    <lastmod>2021-05-13</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://heyheydoggy.github.io/2021/05/13/AI40/</loc>
     
     <lastmod>2021-05-13</lastmod>
@@ -389,27 +403,6 @@
   </url>
   
   <url>
-    <loc>https://heyheydoggy.github.io/tags/AI-40/</loc>
-    <lastmod>2021-05-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://heyheydoggy.github.io/tags/American-Illustration/</loc>
-    <lastmod>2021-05-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://heyheydoggy.github.io/tags/CHOSEN/</loc>
-    <lastmod>2021-05-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://heyheydoggy.github.io/tags/%E8%B2%93/</loc>
     <lastmod>2021-05-13</lastmod>
     <changefreq>daily</changefreq>
@@ -445,6 +438,27 @@
   </url>
   
   <url>
+    <loc>https://heyheydoggy.github.io/tags/AI-40/</loc>
+    <lastmod>2021-05-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://heyheydoggy.github.io/tags/American-Illustration/</loc>
+    <lastmod>2021-05-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://heyheydoggy.github.io/tags/CHOSEN/</loc>
+    <lastmod>2021-05-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://heyheydoggy.github.io/tags/%E9%A3%9B%E7%89%9B%E7%89%A7%E5%A0%B4/</loc>
     <lastmod>2021-05-13</lastmod>
     <changefreq>daily</changefreq>
@@ -453,6 +467,13 @@
   
   <url>
     <loc>https://heyheydoggy.github.io/tags/%E8%8B%97%E6%A0%97/</loc>
+    <lastmod>2021-05-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://heyheydoggy.github.io/tags/myboy/</loc>
     <lastmod>2021-05-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -552,13 +573,6 @@
   </url>
   
   <url>
-    <loc>https://heyheydoggy.github.io/categories/%E6%AF%94%E8%B3%BD%E7%B6%93%E9%A9%97/</loc>
-    <lastmod>2021-05-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://heyheydoggy.github.io/categories/%E5%AF%B5%E7%89%A9%E8%B8%8F%E9%9D%92%E5%8E%BB/</loc>
     <lastmod>2021-05-13</lastmod>
     <changefreq>daily</changefreq>
@@ -566,7 +580,7 @@
   </url>
   
   <url>
-    <loc>https://heyheydoggy.github.io/categories/%E6%AF%94%E8%B3%BD%E7%B6%93%E9%A9%97/American-Illustration/</loc>
+    <loc>https://heyheydoggy.github.io/categories/%E6%AF%94%E8%B3%BD%E7%B6%93%E9%A9%97/</loc>
     <lastmod>2021-05-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -574,6 +588,13 @@
   
   <url>
     <loc>https://heyheydoggy.github.io/categories/%E5%AF%B5%E7%89%A9%E8%B8%8F%E9%9D%92%E5%8E%BB/%E8%8A%B1%E8%93%AE/</loc>
+    <lastmod>2021-05-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://heyheydoggy.github.io/categories/%E6%AF%94%E8%B3%BD%E7%B6%93%E9%A9%97/American-Illustration/</loc>
     <lastmod>2021-05-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
